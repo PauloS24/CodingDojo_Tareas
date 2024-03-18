@@ -9,7 +9,7 @@
 Aquí dejo los Laboratorios realizados .
 ## Laboratorios
 
-- [Laboratorio 1](https://docs.google.com/document/d/1WbCMHjA2rEuDM2GPm6EykRjCeTnFTjJ2QzDuxxY_rRk/edit?usp=drive_link): Breve descripción del proyecto 1.
+- [Laboratorio 1](https://docs.google.com/document/d/1WbCMHjA2rEuDM2GPm6EykRjCeTnFTjJ2QzDuxxY_rRk/edit?usp=drive_link): Fue el Primer trabajo que hicimos, aprendimos como levantar una instancia EC2 y familiarizarnos con la interfaz de Amazon.
 - [Proyecto 2](link_al_proyecto_2): Breve descripción del proyecto 2.
 - [Proyecto 3](link_al_proyecto_3): Breve descripción del proyecto 3.
 
