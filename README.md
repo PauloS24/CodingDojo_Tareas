@@ -39,5 +39,25 @@ Aquí dejo los Laboratorios realizados durante el Bootcamp de AWS Re/Start.
 - [Protección de datos mediante encriptación](https://drive.google.com/file/d/1BD252gcMD-SOQdVxu8tDIy2z3rcffF_b/view?usp=sharing) Configuramos el archivo de credenciales de AWS para encriptar algunos archivos .txt
 - [Introducción a la gestión de identidades y accesos (IAM)](https://drive.google.com/file/d/1bkU1YueuOG5p4I4SPh7D5SppaghdLTaN/view?usp=sharing) Creamos una política de contraseña de cuenta con AWS IAM para asignar permisos
 - [Malware de firewall](https://drive.google.com/file/d/1_l_tiH1kQl3l6HhYsXOwK24nF4tUOlhh/view?usp=sharing) Verificamos que el firewall de la red esté actualizado y configurado correctamente para bloquear el acceso a sitios web maliciosos.
-- [Supervisar una instancia EC2](https://drive.google.com/file/d/1TTR4_3MuD5bytioAKM7gYrA_At0Bb1Av/view?usp=sharing) 
+- [Supervisar una instancia EC2](https://drive.google.com/file/d/1TTR4_3MuD5bytioAKM7gYrA_At0Bb1Av/view?usp=sharing) Creamos una alarma de CloudWatch que se activa a un umbral de estrés específico de la instancia. Esa alarma envía un correa avisando usando Amazon SNS
+
+## Python 
+- [Algunos ejercicios Básicos](https://docs.google.com/document/d/11CZ7FrHohF8ukBiSFzcX94hVsNgX8gxml8r8P4tIv5Q/edit?usp=sharing)
+- [Uso del Depurador](https://docs.google.com/document/d/1zo6QtKqBMrUxbAdIxArGhksI4MZh5z1GticZSUAVJng/edit?usp=sharing)
+
+## Bases de Datos 
+- [Operaciones de tabla de base de datos](https://drive.google.com/file/d/1XwfciIcqwSQLkwz10uDG4O6bvvXKmi0A/view?usp=sharing) Usamos una tabla de datos de ejemplo e interacutamos con comandos sencillos de CREATE, SHOW y DROP.
+- [Insertar, actualizar y eliminar datos en una base de datos](https://drive.google.com/file/d/1j2qH_aZE8gvOfH_NJpatxbrG1oKoQ7GO/view?usp=sharing) Editamos una tabla de datos con los comandos INSERT, UPDATE y DELETE.
+- [Selección de datos de una base de datos](https://drive.google.com/file/d/1jkwrG3TKo8c8T5WqnYx3JBBYSXk9Y8Sf/view?usp=sharing) Aprendimos el comando SELECT y sus diferentes aplicaciones.
+- [Realización de una búsqueda condicional](https://drive.google.com/file/d/13JyhhSzIulDOtLIqgmsADpLXL4ZV6Na2/view?usp=sharing) Ahora usamos SELECT con operaciones como "<", ">", y "=" también condiciones con WHERE.
+- [Introducción a Amazon Aurora](https://drive.google.com/file/d/1XalD2Wrvi2MAoHFQ8nrI9-XOvKhPKi6i/view?usp=sharing) Creamos una instancia en Aurora, la conectamos a una instancia EC2 y creamos una tabla de datos.
+- [Laboratorio de desafío: crear un servidor de base de datos e interactuar con la base de datos](https://drive.google.com/file/d/1suG8WHKki7H-4J-RIcEpe-wgWg_mIBRF/view?usp=sharing) Creamos una base de datos con Amazon RDS e interactuamos con una tabla.
+
+## Labs de Servicios de AWS
+- [Creación de instancias de Amazon EC2](https://drive.google.com/file/d/16Kk8SC5BmtkKMYEnnUNkBZEQonqbUslr/view?usp=sharing) Levantamos una instancia EC2 desde AMI y desde AWS Command-Line Interface configuramos las subredes y los grupos de seguridad.
+- [Trabajar con AWS Lambda](https://drive.google.com/file/d/1RjSHRDlLjfGO-gMeKzpLCiwRvsTFY-Tw/view?usp=sharing) Usamos AWS Lambda para que genere informes de análisis al extraer datos y enviarlos por correo de manera diaria.
+- [Trabajar con Amazon Elastic Block Store (Amazon EBS)](https://drive.google.com/file/d/17U7KyvmHlvj4h9wKteGrzWmyZZ6zkbmk/view?usp=sharing)
+ 
+  
+  
 ¡Gracias por visitar mi perfil!
