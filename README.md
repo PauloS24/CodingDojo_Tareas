@@ -1,8 +1,9 @@
-<center>
+<div style="text-align:center;">
 
 # ¡Hola! Soy Paulo Sena
 
-</center>
+</div>
+
 [![Beige-Modern-Elegant-Personal-Linked-In-Banner-1.png](https://i.postimg.cc/CM2b81cp/Beige-Modern-Elegant-Personal-Linked-In-Banner-1.png)](https://postimg.cc/nMvsbH83)
 
 Aquí dejo los Laboratorios realizados .
