@@ -13,7 +13,7 @@ Aquí dejo los Laboratorios realizados durante el Bootcamp de AWS Re/Start.
 
  ## Laboratorios Sobre Linux
 - [Introducction to Amazon Linux AMI](https://drive.google.com/file/d/1Csra_cG70P0MNMDnJrkBj_fwfZHzzMZs/view?usp=sharing)
-- [Linux Command Line]([link_al_proyecto_3](https://drive.google.com/file/d/1kOWTF4Qe1wBidhmoFzDU6z3P8RIPAGp3/view?usp=sharing)https://drive.google.com/file/d/1kOWTF4Qe1wBidhmoFzDU6z3P8RIPAGp3/view?usp=sharing)
+- [Linux Command Line]((https://drive.google.com/file/d/1kOWTF4Qe1wBidhmoFzDU6z3P8RIPAGp3/view?usp=sharing)https://drive.google.com/file/d/1kOWTF4Qe1wBidhmoFzDU6z3P8RIPAGp3/view?usp=sharing)
 - [Create Users](https://docs.google.com/document/d/1ztYEKGyLwZ1rRaEt6oYaKP5b-QMBoWTU/edit?usp=sharing&ouid=105503689924360951210&rtpof=true&sd=true) En este Lab aprendimos a crear y administrar usuarios y grupos
 - [Editing Files](https://docs.google.com/document/d/194CBMbfKO4_yjdQDlAx_H0_7W3ao7JVa/edit?usp=sharing&ouid=105503689924360951210&rtpof=true&sd=true) Aquí practicamos con Vim tutorial para editar archivos.
 - [Create a Folder Structure](https://docs.google.com/document/d/1e4JE0mTs7pIMSeOiNFxJci9lFR6DRKKT/edit?usp=sharing&ouid=105503689924360951210&rtpof=true&sd=true) En este Lab hicimos directorios para distintas carpetas usando el organigrama de una empresa como modelo.
