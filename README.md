@@ -1,6 +1,6 @@
 <div style="text-align:center;">
 
-# ¡Hola! Soy Paulo Sena
+## ¡Hola! Soy Paulo Sena
 
 </div>
 
@@ -11,7 +11,7 @@ Aquí dejo los Laboratorios realizados durante el Bootcamp de AWS Re/Start.
 
 - [Introduction to Amazon EC2](https://docs.google.com/document/d/1WbCMHjA2rEuDM2GPm6EykRjCeTnFTjJ2QzDuxxY_rRk/edit?usp=drive_link): Fue el Primer trabajo que hicimos, aprendimos como levantar una instancia EC2 y familiarizarnos con la interfaz de Amazon.
 
-  Laboratorios Sobre Linux
+ # Laboratorios Sobre Linux
 - [Introducction to Amazon Linux AMI](https://drive.google.com/file/d/1Csra_cG70P0MNMDnJrkBj_fwfZHzzMZs/view?usp=sharing)
 - [Linux Command Line]([link_al_proyecto_3](https://drive.google.com/file/d/1kOWTF4Qe1wBidhmoFzDU6z3P8RIPAGp3/view?usp=sharing)https://drive.google.com/file/d/1kOWTF4Qe1wBidhmoFzDU6z3P8RIPAGp3/view?usp=sharing)
 - [Create Users](https://docs.google.com/document/d/1ztYEKGyLwZ1rRaEt6oYaKP5b-QMBoWTU/edit?usp=sharing&ouid=105503689924360951210&rtpof=true&sd=true) En este Lab aprendimos a crear y administrar usuarios y grupos
