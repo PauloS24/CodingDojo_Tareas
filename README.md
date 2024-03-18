@@ -22,5 +22,9 @@ Aquí dejo los Laboratorios realizados durante el Bootcamp de AWS Re/Start.
 - [Managing Processes](https://docs.google.com/document/d/1nKTE3LYHXEH__wQtbXdKs4jPj45AdzlO/edit?usp=sharing&ouid=105503689924360951210&rtpof=true&sd=true) Ahora vimos como se crean los archivos de registro y como crear tareas programadas con el comando cron
 - [Managing Services - Monitoring](https://docs.google.com/document/d/1FleDweNMRFcikyx7KugizBbhE3zQIelx/edit?usp=sharing&ouid=105503689924360951210&rtpof=true&sd=true) En este Lab vimos como ver el estado de un servicio HTTPD y de una instancia EC2 usando AWS CloudWatch.
 - [Software Management](https://docs.google.com/document/d/1zhzcgaMq7ulprLs0KtFtZGhfRMkil4zz/edit?usp=sharing&ouid=105503689924360951210&rtpof=true&sd=true) En este lab usamos el cliente de amazon para hacer upgrades del software y administrar paquetes
-- [Managing Log Files](https://docs.google.com/document/d/1BKubPE4WHeml6ab9CPWmlCZHJTpbo-g7/edit?usp=sharing&ouid=105503689924360951210&rtpof=true&sd=true) En este Lab revisamos los últimos archivos de registro de la máquina 
+- [Managing Log Files](https://docs.google.com/document/d/1BKubPE4WHeml6ab9CPWmlCZHJTpbo-g7/edit?usp=sharing&ouid=105503689924360951210&rtpof=true&sd=true) En este Lab revisamos los últimos archivos de registro de la máquina
+- [Working with Commands](https://docs.google.com/document/d/14qKcS_nItRMzX1DXnHJLAmDQrSIjrJXF/edit?usp=sharing&ouid=105503689924360951210&rtpof=true&sd=true) Aprendimos a usar algunos comandos de Linux como tee,sort,cut, etc.
+- [Bash Shell Scripts](https://docs.google.com/document/d/1SBnvAENJ9xWMAtvbz4y2p0SlLNwerftN/edit?usp=sharing&ouid=105503689924360951210&rtpof=true&sd=true) Como último Lab, creamos un bash script para que automatize el backup de nuestras carpetas.
+
+
 ¡Gracias por visitar mi perfil!
